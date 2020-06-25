@@ -2,7 +2,12 @@
 # Kotlin_tutorial
 
 https://kotlinlang.org/
+
 https://github.com/JetBrains/kotlin
+
+
+quick start
+https://developer.android.com/kotlin?hl=ko
 
 
 Ranking of languages you want to learn?
