@@ -10,7 +10,7 @@
 - https://kotlinlang.org/docs/tutorials/getting-started.html
 - Android
   - https://developer.android.com/kotlin?hl=ko
-- ndroid Basics in Kotlin course
+- Android Basics in Kotlin course
   - https://developer.android.com/courses/topics/android-basics-kotlin?hl=ko
 - web editor
   - https://try.kotlinlang.org/
