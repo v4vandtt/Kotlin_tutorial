@@ -7,8 +7,9 @@
 
 
 ## Quick start
-- https://developer.android.com/kotlin?hl=ko
-- https://developer.android.com/kotlin/first?hl=ko
+- https://kotlinlang.org/docs/tutorials/getting-started.html
+- Android
+  - https://developer.android.com/kotlin?hl=ko
 - ndroid Basics in Kotlin course
   - https://developer.android.com/courses/topics/android-basics-kotlin?hl=ko
 - web editor
