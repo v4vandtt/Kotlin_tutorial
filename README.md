@@ -11,7 +11,9 @@
 - https://developer.android.com/kotlin/first?hl=ko
 - ndroid Basics in Kotlin course
   - https://developer.android.com/courses/topics/android-basics-kotlin?hl=ko
-- https://try.kotlinlang.org/
+- web editor
+  - https://try.kotlinlang.org/
+  - https://play.kotlinlang.org/#
   
 
 
