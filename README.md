@@ -10,7 +10,8 @@ quick start
 - https://developer.android.com/kotlin?hl=ko
 - https://developer.android.com/kotlin/first?hl=ko
 - ndroid Basics in Kotlin course
--- https://developer.android.com/courses/topics/android-basics-kotlin?hl=ko
+  - https://developer.android.com/courses/topics/android-basics-kotlin?hl=ko
+  
 
 
 Ranking of languages you want to learn?
